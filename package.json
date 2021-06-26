@@ -1,0 +1,16 @@
+{
+  "name": "fetch-chaldal-products",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "helpers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
